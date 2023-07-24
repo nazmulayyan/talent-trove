@@ -7,6 +7,7 @@ import About from "../Pages/About/About";
 import SingleItCompany from "../Pages/Home/TopItCompany/SingleItCompany";
 import PrivateRoutes from "./PrivateRoute/PrivateRoutes";
 import Register from "../Pages/SingUp/Register";
+import PostJob from "../Pages/PostJob/PostJob";
 
   const router = createBrowserRouter([
     {
@@ -22,8 +23,16 @@ import Register from "../Pages/SingUp/Register";
           element: <About></About>
         },
         {
+          path:'/contact',
+          element: <About></About>
+        },
+        {
           path:'/singUp',
           element: <Register></Register>
+        },
+        {
+          path:'/postJob',
+          element:<PostJob></PostJob>
         },
         {
           path:'/viewDetailsLocal:id',

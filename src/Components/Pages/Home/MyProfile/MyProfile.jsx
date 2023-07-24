@@ -27,11 +27,13 @@ const MyProfile = () => {
             </div>
             <div className="grid lg:grid-cols-12 gap-6 mt-10 items-center">
                 <div className="lg:col-span-4 col-span-6">
+                <h4 className="mt-3 px-2 text-xl description mb-2 font-semibold">Video Resume</h4>
                     {profile.map((pro) => (
                         <div key={pro.profile} className="description">
                             <div >
                                 <div className="col-span-4 ">
                                     <div className="relative overflow-hidden">
+                                    
                                         <img src={pro.videoImage} alt="" />
                                         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-orange-600 via-red-800 to-red-600 opacity-50 z-20 justify-center flex items-center">
                                             <Link to='https://drive.google.com/file/d/1FZA9TRK8x7957K6RYnBZULaIz_cz-fiG/view?usp=sharing' target='_blank' className="text-5xl text-white">

@@ -1,9 +1,20 @@
+import { Link } from "react-router-dom";
+
 const Header = () => {
+    //smooth scrolling
+    const handleMenuClick = (sectionId) => {
+        const section = document.getElementById(sectionId);
+        section.scrollIntoView({ behavior: 'smooth' });
+    };
     return (
         <div>
             <div className="relative">
                 <img
                     className="banner object-cover w-full" src="https://i.ibb.co/1Tx5RVh/pexels-mikhail-nilov-8297441.jpg" alt="find job" />
+                    <div className="absolute top-1/2 -translate-y-1/2 right-2 z-30">
+                        <Link onClick={() => handleMenuClick('fresher')} className="block bg-white px-4 py-2 mb-3 description text-lg font-semibold">job seeker</Link>
+                        <Link to='/postJob' className="block bg-white px-4 py-2 mb-3 description text-lg font-semibold">job poster</Link>
+                    </div>
 
                 <div
                     className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-orange-600 via-red-800 to-red-600 opacity-75 z-20 flex items-center"

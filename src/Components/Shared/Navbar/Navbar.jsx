@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { RxHamburgerMenu, RxCross2 } from "react-icons/rx";
-import ActiveLink from "../../../LayOut/ActiveLink/ActiveLink";
 import { useState } from "react";
 
 const Navbar = () => {
@@ -40,20 +39,20 @@ const Navbar = () => {
                                 }`}
                         >
                             <li className="px-6 cursor-pointer font-bold text-xl  text-white">
-                                <ActiveLink to="/">
+                                <Link to="/">
                                     Home
-                                </ActiveLink>
+                                </Link>
                             </li>
                             <li className="px-6 cursor-pointer font-bold text-xl text-white">
-                                <ActiveLink className="" to="/allToys">
+                                <Link className="" to="/about">
                                     About
-                                </ActiveLink>
+                                </Link>
                             </li>
 
                             <li className="px-6 cursor-pointer font-bold text-xl text-white">
-                                <ActiveLink className="" to="/blog">
+                                <Link className="" to="/contact">
                                     Contact Us
-                                </ActiveLink>
+                                </Link>
                             </li>
 
                             {user?.email || user?.providerData ? (
@@ -64,9 +63,9 @@ const Navbar = () => {
                                 </li>
                             ) : (
                                 <li className="px-6 cursor-pointer font-bold text-xl text-white">
-                                    <ActiveLink to="/singUp">
+                                    <Link to="/singUp">
                                         Sing up
-                                    </ActiveLink>
+                                    </Link>
                                 </li>
                             )}
                         </ul>
