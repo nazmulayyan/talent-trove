@@ -1,0 +1,222 @@
+[
+    {
+        "title": "fresher",
+        "position": "Junior Software Engineer",
+        "location": "New York, NY",
+        "company": "TechGuru",
+        "logo": "https://i.ibb.co/n8r96MW/techguru.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Web Developer",
+        "location": "San Francisco, CA",
+        "company": "TechCo",
+        "logo": "https://i.ibb.co/qWgmrxn/techco.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Software Tester",
+        "location": "Toronto, Canada",
+        "company": "TechPro",
+        "logo": "https://i.ibb.co/zSCy8Nv/techpro.jpg"
+    },
+    {
+        "title": "fresher",
+        "position": "Junior Data Analyst",
+        "location": "London, UK",
+        "company": "TechWise",
+        "logo": "https://i.ibb.co/0cX706r/techwise.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Mobile App Developer",
+        "location": "Berlin, Germany",
+        "company": "TechMobile",
+        "logo": "https://i.ibb.co/3mg3Mc7/download.jpg"
+    },
+    {
+        "title": "fresher",
+        "position": "UI/UX Designer",
+        "location": "Sydney, Australia",
+        "company": "TechDesign",
+        "logo": "https://i.ibb.co/bW0Xjwp/download.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Software Engineer",
+        "location": "Singapore",
+        "company": "TechSolutions",
+        "logo": "https://i.ibb.co/gM0FDPy/download-1.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Junior Developer",
+        "location": "Stockholm, Sweden",
+        "company": "TechInnovate",
+        "logo": "https://i.ibb.co/fQ5pV8C/download-2.png"
+    },
+    {
+        "title": "fresher",
+        "position": "Data Science Intern",
+        "location": "Vancouver, Canada",
+        "company": "TechData",
+        "logo": "https://i.ibb.co/c85wRmZ/download-3.png"
+    },
+    {
+        "title": "fresher",
+        "position": "IT Support Specialist",
+        "location": "Austin, TX",
+        "company": "TechAssist",
+        "logo": "https://i.ibb.co/cFDFXmw/download-4.png"
+    },
+    {
+        "title": "experienced",
+        "position": "Senior Software Engineer",
+        "location": "New York, NY",
+        "company": "TechMasters",
+        "logo": "https://i.ibb.co/Wg5cr7z/tech-Master.png"
+    },
+    {
+        "title": "experienced",
+        "position": "Full Stack Developer",
+        "location": "San Francisco, CA",
+        "company": "TechProfs",
+        "logo": "https://i.ibb.co/2303mmf/techprops.jpg"
+    },
+    {
+        "title": "experienced",
+        "position": "Software Architect",
+        "location": "Toronto, Canada",
+        "company": "TechGurus",
+        "logo": "https://i.ibb.co/3kKsrM3/techguru.jpg"
+    },
+    {
+        "title": "experienced",
+        "position": "Senior Data Scientist",
+        "location": "London, UK",
+        "company": "TechWizards",
+        "logo": "https://i.ibb.co/ncg0LqH/tech-wardes.jpg"
+    },
+    {
+        "title": "experienced",
+        "position": "DevOps Engineer",
+        "location": "Berlin, Germany",
+        "company": "TechGenius",
+        "logo": "https://i.ibb.co/GcXXtjx/techgunious.png"
+    },
+    {
+        "title": "experienced",
+        "position": "Product Manager",
+        "location": "Sydney, Australia",
+        "company": "TechVision",
+        "logo": "https://i.ibb.co/RvBYz1N/techvision.png"
+    },
+    {
+        "title": "experienced",
+        "position": "Machine Learning Engineer",
+        "location": "Singapore",
+        "company": "TechSolutions",
+        "logo": "https://i.ibb.co/T8CQxR0/techsolution.png"
+    },
+    {
+        "title": "experienced",
+        "position": "Senior Frontend Developer",
+        "location": "Stockholm, Sweden",
+        "company": "TechInnovate",
+        "logo": "https://i.ibb.co/q1R5nxk/techinovate.jpg"
+    },
+    {
+        "title": "experienced",
+        "position": "Data Engineering Manager",
+        "location": "Vancouver, Canada",
+        "company": "TechVibes",
+        "logo": "https://i.ibb.co/gPZj3cj/techvibes.png"
+    },
+    {
+        "title": "experienced",
+        "position": "IT Operations Manager",
+        "location": "Austin, TX",
+        "company": "TechBoost",
+        "logo": "https://i.ibb.co/p0rMTdw/techbost.png"
+    },
+    {
+        "title": "company",
+        "location": "bangladesh",
+        "company": "Brain Station 23",
+        "logo": "https://i.ibb.co/3CTc2Fm/brainstation.png",
+        "description": "In 2006, with little capital but a pocketful of belief, CEO, Raisul Kabir started Brain Station 23, a software company, right after graduating from BUET. They are specialist enterprise, customized web applications, and mobile software development service providers, and have been catering to the needs of both local and international clients. Moreover, Brain Station 23’s services also cover areas of ERP solutions, cloud services, artificial intelligence, machine learning, etc. Brain Station 23’s headquarter is located in Badda, Dhaka.The company has been growing steadily since its inception, and has over 700+ professional software engineers working currently. They offer mobile software development services to both domestic and foreign clients. With partners all across the globe including Germany, USA, Norway, the Netherlands, Canada, Australia, Japan, and South Africa, Brain Station 23 offers software and IT solutions to more than 25 countries. Their client list includes the likes of Grameenphone, Citibank, British American Tobacco, Robi, and many of Bangladesh’s biggest brands. Brain Station 23 has been getting the BASIS best outsourcing organization award for over a decade now."
+    },
+    {
+        "title": "company",
+        "location": "bangladesh",
+        "company": "Data soft",
+        "logo": "https://i.ibb.co/FxxwZRZ/datasoft.png",
+        "description": "The first software business in Bangladesh to be certified as a CMMI Level 5 Software Development Company is DataSoft Systems Bangladesh Limited. Mahboob Zaman is the Managing Director of this company. Headquartered in Shyamoli, Dhaka, and employing more than 500 employees. Since 1998, DataSoft has had a successful track record of delivering innovative, bug-free, and cost-effective technical services to customers in both corporate and public sector undertakings. The company’s service package includes software development solutions, software testing as a service, system management and implementation, Datasoft advisory services, infrastructure as a service, and education & training. In addition to that, their products are developed maintaining ISO 9001:2008 standards. They work in many different industries like Banking and finance, Port & Logistics, Govt & Defense, SMEs & Development, Automobile, and Telecommunication. "
+    },
+    {
+        "title": "company",
+        "location": "bangladesh",
+        "company": "TigerIT",
+        "logo": "https://i.ibb.co/XF1KvSy/tigerit.png",
+        "description": "Headquartered in Banani, TigerIT offers complete credential management solutions to state and federal organizations. Founded in 2003, Mr. Ziaur Rahman is the CEO of TigerIT. More than 20,000 employees work at the software firm and the company has 500 ID management servers. The Automated Fingerprint Identification System and the Biometrics Program, both introduced by Tiger IT, have had a substantial influence on the nation’s security scene (AFIS). Moreover, what makes TigerIT stand is – it is one of the few software firms in the world that make AFIS-certified NIST, which is also the first in South Asia. TigerIT offers solutions for everything from national identification, voter registration, e-passports, and border control, to driving licenses, vehicle monitoring, and many more. Additionally, TigerIT offers enterprise-grade single sign-on, identity, and access management solutions, as well as highly specialized system integration of 3rd party hardware and software with legacy systems to big businesses including banks, telecom firms, and multinational corporations."
+    },
+    {
+        "title": "companyWorld",
+        "location": "world wide",
+        "company": "Microsoft Corporation",
+        "logo": "https://i.ibb.co/ZfzqT2N/micro.png",
+        "description": "The products like Microsoft Windows, Microsoft Office etc. are being used by a lot of professionals in the world.Microsoft was founded by Bill Gates and Paul Allen on 4, April, 1975, and it has expanded its market share by diversifying its services from operating system market to other various software products.Microsoft is a multinational technology company that is known for its software products such as Windows operating system, Microsoft Office Suite, and Internet Explorer. Over the years, Microsoft has grown its product offerings beyond software to include hardware such as the Surface line of tablets and laptops, and gaming consoles such as the Xbox. In addition, the company has also made significant investments in artificial intelligence, cloud computing, and cybersecurity. An important area of business for Microsoft has been its cloud computing platform, Azure. The platform offers a range of services including virtual machines, data storage, and application development, and competes with other cloud providers globally.Microsoft is on 1st Rank in Top Information Technology (IT) companies in the world 2023."
+    },
+    {
+        "title": "companyWorld",
+        "location": "world wide",
+        "company": "Accenture",
+        "logo": "https://i.ibb.co/q0szdwd/accenture.png",
+        "description": "It is a global management consultancy firm which provides professional services like strategy, consulting, technology and operations services.Accenture's businesses are spread across financial services, communications, media and technology, products, and resources. The company's consulting services are aimed at helping organizations improve their business processes, increase efficiency, and develop new strategies to stay ahead of the competition. Accenture also offers technology services, including software development, cloud computing, and cybersecurity, as well as outsourcing services such as finance and accounting, human resources, and procurement. Accenture is on 2nd Rank in Top IT companies in the world.Revenue: $62 Billion"
+    },
+    {
+        "title": "companyWorld",
+        "location": "world wide",
+        "company": "IBM",
+        "logo": "https://i.ibb.co/1TCPbDN/download.png",
+        "description": "The company was established originally as computing recording company but was later renamed as IBM (International Business Machines) in 1924. IBM headquarter is present in Armonk, New York. IBM's business is organized into five main segments: Cloud & Cognitive Software, Global Business Services, Global Technology Services, Systems, and Global Financing. IBM's global business services segment provides consulting, application management, and business process outsourcing services to clients across different industries. In recent years, IBM has focused on expanding its cloud computing capabilities and AI, with its IBM Cloud platform offering a range of services including infrastructure, software, and platform as a service. IBM has developed a range of proprietary tools and platforms to help clients take advantage of emerging technologies. IBM is a strong company that provides a range of technology and consulting services to clients across different industries.BM is on 3rd Rank in Top IT companies in the world 2023. Revenue: $ 60 billion"
+    },
+    {
+        "title": "profile",
+        "name": "Slice Of Spice",
+        "image": "https://i.ibb.co/Kst9jbf/sliceofspice.png",
+        "liveLink": "https://slice-of-spice-fe78b.web.app/",
+        "clientLink": "https://github.com/nazmulayyan/slice-of-spice-clinet",
+        "serverLink": "https://github.com/nazmulayyan/slice-of-slice-server"
+    },
+    {
+        "title": "profile",
+        "name": "Funtopia Toy Store",
+        "image": "https://i.ibb.co/Trb3xWb/funtofia.png ",
+        "liveLink": "https://funtopia-toy-store.web.app/",
+        "clientLink": "https://github.com/nazmulayyan/funtopia-toy-store-client",
+        "serverLink": "https://github.com/nazmulayyan/funtopia-toy-store-server"
+    },
+    {
+        "title": "profile",
+        "name": "Lingua language School",
+        "image": "https://i.ibb.co/n6vN4M3/lingua.png",
+        "liveLink": "https://lingua-language-school.web.app/",
+        "clientLink": "https://github.com/nazmulayyan/lingua-language-school-client",
+        "serverLink": "https://github.com/nazmulayyan/lingua-laguage-school-server"
+    },
+    {
+        "title": "profile",
+        "name": "Slice Of Spice",
+        "image": "https://i.ibb.co/Kst9jbf/sliceofspice.png",
+        "liveLink": "https://slice-of-spice-fe78b.web.app/",
+        "clientLink": "https://github.com/nazmulayyan/slice-of-spice-clinet",
+        "serverLink": "https://github.com/nazmulayyan/slice-of-slice-server"
+    },
+    {
+        "title": "profile",
+        "videoName": "Video Resume",
+        "videoImage":"https://i.ibb.co/9bqBxNp/pexels-ekaterina-bolovtsova-4049984.jpg",
+        "videoLiveLink": "www.example.com/project-four"
+    }
+]
